@@ -1,0 +1,23 @@
+Style Guide for Coffee Time
+
+Colors to use:
+
+background-color: #0b0c10
+h1 text: #66fcf1
+all other text: #45a29e
+a-links: #c5c6c7
+a:visited: white
+border on sections : 1px solid white
+
+
+
+fonts to use:
+
+H1 font: amatic SC
+all other text: Josefin Sans
+
+
+picture:
+
+itscoffeetime.jpg
+roasting.png
